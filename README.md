@@ -2,14 +2,14 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sakibint&style=flat-square)
 
-I'm a passionate software developer with a keen interest in open-source projects and innovative technologies. I enjoy working on challenging problems and continuously learning new things.
+I'm a passionate software developer interested in open-source projects and innovative technologies. I enjoy working on challenging problems and continuously learning new things.
 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on various open-source projects
-- 🌱 I’m currently learning advanced machine learning techniques
+- 🌱 I’m currently learning advanced machine-learning techniques
 - 👯 I’m looking to collaborate on exciting open-source projects
-- 🤔 I’m looking for help with improving my knowledge in cloud computing
+- 🤔 I’m looking for help with improving my knowledge of cloud computing
 - 💬 Ask me about web development, Python, and JavaScript
 - 📫 How to reach me: [email@example.com](mailto:email@example.com)
 - ⚡ Fun fact: I love playing chess and exploring new cuisines
